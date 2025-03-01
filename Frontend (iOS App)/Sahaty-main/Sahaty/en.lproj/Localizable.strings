@@ -1,0 +1,354 @@
+/* 
+  Localizable.strings
+  Sahaty
+
+  Created by mido mj on 12/29/24.
+  
+*/
+
+
+// MARK: - splach screen
+"sahaty" = "Sahaty";
+
+
+
+//1- advice
+// MARK: - ADVICE VIEW
+"create_daily_advice" = "Create Daily Advice";
+"edit_advice" = "Edit Advice";
+"topic" = "Topic";
+"publish" = "Publish";
+
+//2-Articals
+// MARK: - ADD ARTICALE VIEW
+"create_new_article" = "Create New Article";
+"new_article" = "add article";
+
+"edit_article" = "Edit Article";
+"fill_fields_for_article" = "Fill in the fields below to add the article";
+"fill_EditFields_for_article" = "Fill in the fields below to edit the article";
+
+"topic" = "Topic";
+"upload_image" = "Upload Image";
+"choose_image" = "Choose Image";
+"no_image_selected" = "No image selected";
+"publish" = "Publish";
+"save_changes" = "Save Changes";
+"error" = "Error";
+"text_empty_error" = "The text cannot be empty.";
+"ok" = "OK";
+"title" = "title";
+
+// MARK: - ARTCALE VIEW
+"since" = "Since";
+"delete_article" = "Delete Article";
+"delete_article_confirmation" = "Are you sure you want to delete the article?";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+
+
+
+//3-Authenticaton Views
+// MARK: - LOGIN
+"login_now" = "Login";
+"email" = "Email";
+"enter_email" = "Enter your email address...";
+"password" = "Password";
+"enter_password" = "Enter your password";
+"forgot_password" = "Forgot your password?";
+"login" = "Login";
+"sign_up" = "Create new Account?";
+"login_with" = "Login with";
+"patient" = "Patient";
+"doctor" = "Doctor";
+"invalid_credentials" = "invalid Email or Password";
+"nodata" = "Empty Email or Password";
+
+
+// MARK: - FORGET PASSWORD VIEW
+"forgot_password_title" = "Forgot Password";
+"forgot_password_description" = "We will send a code to reset your password";
+"email" = "Email";
+"enter_email" = "Enter your email address..";
+"send" = "Send";
+"ok" = "OK";
+
+
+// MARK: - NEW PASSWORD VIEW
+"enter_new_password" = "Enter your new password";
+"password" = "Password";
+"enter_password" = "Enter your password";
+"confirm_password" = "Confirm Password";
+"login" = "Login";
+"ok" = "OK";
+
+
+// MARK: - OTP PASSWORD VIEW
+"otp_sent_message" = "We have sent a email message with the activation code";
+"verify" = "Verify";
+"resend_otp_in" = "Resend code in";
+"resend_otp" = "Resend Code";
+"ok" = "OK";
+
+
+// MARK: - SignUp VIEW
+"signup_subtitle" = "Start Registration";
+"signup_title" = "New Registration";
+"user_type" = "User Type";
+"patient" = "Patient";
+"doctor" = "Doctor";
+"name" = "Name";
+"enter_full_name" = "Enter full name";
+"email" = "Email";
+"enter_email" = "Enter your email address...";
+"password" = "Password";
+"enter_password" = "Enter password";
+"confirm_password" = "Confirm Password";
+"confirm_password_label" = "Confirm Password";
+"specialization" = "Specialization";
+"enter_specialization" = "Enter specialization";
+"license_number" = "License Number";
+"enter_license_number" = "Enter license number";
+"signup_button" = "Create Account";
+"ok" = "OK";
+"specialty" = "Specialty";
+"all_specialty" = "All Specialty";
+
+
+
+
+
+
+//4-Comment
+// MARK: - ADD COMMENT VIEW
+"add_comment_placeholder" = "Add a comment...";
+"comments" = "Comments";
+"edit" = "Edit";
+"delete" = "Delete";
+
+
+
+
+
+
+
+
+
+//5-Doctor
+// MARK: - DoctorHomeScreen View
+"daily_advices" = "Today's Advices";
+"no_advices" = "No advices yet!";
+"add_new_advice" = "Start by adding a new advice to inspire others.";
+"edit" = "Edit";
+"delete" = "Delete";
+"new_articles" = "New Articles";
+"no_articles" = "No articles available";
+"add_new_article" = "Start by adding a new article to help others.";
+
+
+// MARK: - DoctorTabBarView View
+"home" = "Home";
+"Profile" = "Profile";
+"Chats" = "Chats";
+"Notifications" = "Notifications";
+"Settings" = "Settings";
+
+// MARK: - ProfileView View
+"Profile" = "Profile";
+"Bio" = "Bio";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Followers" = "Followers";
+"Articles" = "Articles";
+"Advices" = "Advices";
+"Show All" = "Show All";
+"Add" = "Add";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"all_artical" = "all artical";
+"all_advice" = "all advice";
+"noBio" = "no bio";
+"enter_valid_jobSpecialtyNumber" = "Enter 8 Number jobSpecialty";
+"success_update_data" = "Successful Update Doctor Data🥳";
+"unsuccess_update_data" = "erorr Update Doctor Data";
+
+
+
+
+
+
+
+//6-Notification
+// MARK: - Notification View
+"notifications" = "Notifications";
+"no_notifications" = "No Notifications";
+"no_notifications_message" = "Notifications will appear here when available.";
+
+
+
+
+
+
+
+
+
+//7-Patient
+// MARK: - PatientHomeScreen
+"daily_advices" = "Today's Advices";
+"categories" = "Categories";
+"new_articles" = "New Articles";
+"no_posts" = "No posts available right now";
+"follow_articles" = "Start following new and useful articles.";
+"no_advices" = "No advices available yet!";
+"start_following_advices" = "Start following daily advices to improve your health.";
+"mental_health" = "Mental Health";
+"chronic_diseases" = "Chronic Diseases";
+"healthy_nutrition" = "Healthy Nutrition";
+
+
+
+
+
+// MARK: - PatientTabBarView
+"home" = "Home";
+"doctors" = "Doctors";
+"notifications" = "Notifications";
+"settings" = "Settings";
+
+
+"followers" = "Followers";
+"specialties" = "Specialties";
+"languageـchange" = "Language Change";
+
+
+
+
+
+//8-Setting
+// MARK: - DoctorSettingView
+"profile" = "Settings";
+"profile" = "Profile";
+"edit_profile" = "Edit Profile";
+"manage_notifications" = "Manage Notifications";
+"enable_notifications" = "Enable Notifications";
+"change_password" = "Change Password";
+"logout" = "Logout";
+"confirm_logout" = "Are you sure you want to logout?";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"dark_mode" = "Dark Mode";
+
+
+// MARK: - EditDoctorPatientProfileView
+"saved_articles" = "All Saved Articles";
+"saved_items" = "Saved Items";
+"old_password" = "Old Password";
+"enter_old_password" = "Enter your old password";
+"confirm" = "Confirm";
+"share_action_sheet_title" = "What do you want to do?";
+"share" = "Share";
+"cancel" = "Cancel";
+"search_placeholder" = "Search in the interface";
+
+"doctors" = "Doctors";
+"search_placeholder" = "Search in the interface";
+"doctor_title" = "Dr. ";
+"chat" = "Chat";
+
+
+
+// MARK: - ViewModels
+
+// MARK: - Advice ViewModel
+"default_advice_1" = "Eat a healthy breakfast every day to start your day with energy.";
+"default_author_1" = "Dr. Ali Salem";
+"default_advice_2" = "Exercise regularly to improve your fitness.";
+"default_author_2" = "Dr. Mariam Abdullah";
+"empty_advice_error" = "The advice cannot be empty.";
+
+// MARK: - Artical ViewModel
+"default_article_1" = "Drink 8 cups of water daily to stay hydrated.";
+"default_author_1" = "Dr. Mohammad Ashraf";
+"default_article_2" = "Exercise regularly to improve your health.";
+"default_author_2" = "Dr. Ahmed Ali";
+"2_hours_ago" = "2 hours ago";
+"1_hour_ago" = "1 hour ago";
+"now" = "Now";
+"error_title" = "Error";
+"empty_article_error" = "The article cannot be empty.";
+"article_not_found_error" = "Failed to find the article.";
+"unknown_user" = "Unknown User";
+
+// MARK: - Login ViewModel
+"enter_valid_email" = "Please enter a valid email.";
+"incorrect_email" = "The email is incorrect.";
+"password_min_length" = "The password must be at least 6 characters.";
+"incorrect_password" = "The password is incorrect.";
+"login_success" = "Login successful! 🥳";
+
+// MARK: - NewPassword ViewModel
+"enter_password" = "Please enter your password.";
+"password_min_length" = "The password must be at least 6 characters.";
+"passwords_not_matching" = "The password and confirmation do not match.";
+"incorrect_old_password" = "The old password is incorrect.";
+"password_change_success" = "Password changed successfully!";
+
+
+// MARK: - otp ViewModel
+"enter_valid_otp" = "Please enter a valid 4-digit OTP code.";
+"incorrect_otp" = "The OTP code is incorrect.";
+"otp_verification_success" = "Verification successful!";
+"otp_resend_message" = "OTP code has been resent to the email";
+
+
+// MARK: - Reset Password ViewModel
+"enter_valid_email" = "Please enter a valid email.";
+"email_not_found" = "The email is not found.";
+"otp_sent_success" = "OTP has been sent successfully.";
+"incorrect_otp" = "The OTP code is incorrect.";
+"otp_verification_success" = "Verification successful! 🎉";
+"password_min_length" = "The password must be at least 6 characters.";
+"passwords_not_matching" = "The password and confirmation do not match.";
+"password_reset_success" = "Password reset successfully! 🥳";
+
+
+// MARK: - Sign Up ViewModel
+"enter_full_name" = "Please enter your full name.";
+"enter_valid_email" = "Please enter a valid email address.";
+"password_min_length" = "Password must be at least 6 characters.";
+"passwords_not_matching" = "Passwords do not match.";
+"enter_specialization" = "Please enter your specialization.";
+"enter_license_number" = "Please enter your license number.";
+"signup_success" = "Account created successfully! 🥳";
+
+
+// MARK: - Comment ViewModel
+"empty_comment" = "The comment cannot be empty.";
+"comment_added" = "The comment was added successfully.";
+"comment_edited" = "The comment was edited successfully.";
+"comment_deleted" = "The comment was deleted successfully.";
+"comment_not_found" = "The comment was not found.";
+
+
+// MARK: - Doctor ViewModel
+"article_1" = "Diabetes is a common condition that can be managed with a balanced diet, regular exercise, and constant monitoring.";
+"article_2" = "Proper nutrition boosts overall health and prevents chronic diseases.";
+"2_hours_ago" = "2 hours ago";
+"3_hours_ago" = "3 hours ago";
+"advice_1" = "Have a healthy breakfast every day for an energetic start to the day.";
+"advice_2" = "Exercise regularly to improve your physical fitness.";
+
+
+"valid_email" = "Please enter a valid registered email.";
+"send_email" = "we sent email to your mail OTP code";
+
+"invalid_otp" = "invalid OTP";
+"submit"  = "save";
+
+"user_type_mismatch" = "Your user type selection is not compatible with the user type";
+
+"follow" = "follow";
+"Unfollow" = "Unfollow";
+
+"write_here" = "Write here...";
+"chat" = "Chat";
