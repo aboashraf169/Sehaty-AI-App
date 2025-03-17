@@ -3,6 +3,25 @@
 
 An advanced AI-powered interactive platform designed to bridge the gap between doctors and patients. The platform enables doctors to publish valuable articles, health tips, and medical advice, while allowing patients to follow their preferred doctors, interact with the content through likes, comments, and shares, and save important articles for future reference.
 
+<p align="center">
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.39.40%E2%80%AFPM.png" width="30%" />
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.40.04%E2%80%AFPM.png" width="30%" />
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.42.00%E2%80%AFPM.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.43.06%E2%80%AFPM.png" width="30%" />
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.43.16%E2%80%AFPM.png" width="30%" />
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.43.20%E2%80%AFPM.png" width="30%" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.44.11%E2%80%AFPM.png" width="30%" />
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.44.29%E2%80%AFPM.png" width="30%" />
+  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.44.48%E2%80%AFPM.png" width="30%" />
+</p>
+
 ## Key Features
 
 - **Doctor's Side**: Doctors can publish articles, share health tips, and provide medical advice.
@@ -69,27 +88,5 @@ A complete **UI/UX** design was developed for the application to ensure an intui
 Watch the demo of the app in action:
 
 [![Watch the video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=6w36W1DZI6s/0.jpg)](https://www.youtube.com/watch?v=6w36W1DZI6s)
-
-
-## Screenshots
-
-<p align="center">
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.39.40%E2%80%AFPM.png" width="30%" />
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.40.04%E2%80%AFPM.png" width="30%" />
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.42.00%E2%80%AFPM.png" width="30%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.43.06%E2%80%AFPM.png" width="30%" />
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.43.16%E2%80%AFPM.png" width="30%" />
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.43.20%E2%80%AFPM.png" width="30%" />
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.44.11%E2%80%AFPM.png" width="30%" />
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.44.29%E2%80%AFPM.png" width="30%" />
-  <img src="https://github.com/aboashraf169/Sahaty/blob/main/Sahaty/Screenshot%202025-03-08%20at%203.44.48%E2%80%AFPM.png" width="30%" />
-</p>
 
 
